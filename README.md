@@ -1,5 +1,6 @@
 # Link In Bio
 
+
 ## Get Started
 - [Clone](https://nss-evening-curriculum.netlify.app/client/08-clone-github-repos) this repo into `~/workspace/foundations/inclass/`
 - Make setup branch with `index.html, main.css, main.js` files
@@ -10,7 +11,7 @@
 ## The Task
 You will be building Link Landing page
 
-## Requirments
+## Requirements
 - Use Bootstrap [block-buttons](https://getbootstrap.com/docs/5.1/components/buttons/#block-buttons) to build your landing page.
 - The page should be a static HTML Page with CSS.
 
